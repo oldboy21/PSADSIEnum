@@ -17,5 +17,5 @@ Get-NestedGroupMemberships [-username] [-logondomain]
 ## Credits
 
 AUTHOR: Vincenzo Santucci\
-CO-AUTHOR: Sander Maas
+CO-AUTHOR: [Retrospected](https://github.com/Retrospected)
 
